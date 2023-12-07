@@ -7,4 +7,4 @@ spec:
     spec:
       containers:
         - name: spring-petclinic
-          image: nrepositorydev.nus.edu.sg/spring-petclinic:latest
+          image: devops.nrepositorydev.nus.edu.sg/spring-petclinic:latest
