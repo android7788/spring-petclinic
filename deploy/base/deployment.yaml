@@ -17,7 +17,7 @@ spec:
       containers:
         - name: spring-petclinic
           image: >-
-            devops.nrepositorydev.nus.edu.sg/spring-petclinic:latest
+            devops.nrepositorydev.nus.edu.sg/java/spring-petclinic:latest
           ports:
             - containerPort: 8080
               protocol: TCP
